@@ -8,7 +8,7 @@
 
 ## Live Deployment
 
-Deployment pending.
+**Live URL:** https://ujwala-nodejs-lab1.onrender.com
 
 ## Aim
 
@@ -35,7 +35,7 @@ To create a server using Node.js and Express.js and implement HTTP routes.
 4. Start the server:
 
    ```bash
-   node server.js
+   npm start
    ```
 
 5. Open `http://localhost:3000` in your browser.
@@ -81,4 +81,4 @@ To create a server using Node.js and Express.js and implement HTTP routes.
 
 ## Result
 
-Successfully created a Node.js server and implemented Express routes with appropriate HTTP status codes.
+Successfully created and deployed a Node.js server using Express.js with appropriate HTTP routes and status codes.
