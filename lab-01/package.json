@@ -1,0 +1,29 @@
+{
+  "name": "lab-01",
+  "version": "1.0.0",
+  "description": "* **Name:** Sankala Ujwala\r * **Registration Number:** 252U1R8086\r * **Section:** CSE(QE)-1B, S13, 204",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ujwala-netizen/BDF-Lab-Submissions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ujwala-netizen/BDF-Lab-Submissions/issues"
+  },
+  "homepage": "https://github.com/Ujwala-netizen/BDF-Lab-Submissions#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
